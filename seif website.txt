@@ -1,0 +1,149 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Seif-Allah Abdel-Latef</title>
+    <meta name="author" content="Seif-Allah Abdel-Latef">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  </head>
+
+  <body>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Seif-Allah Abdel-Latef
+                </p>
+                <p>I'm a student at <a href="https://www.yorku.ca">York University</a> in Toronto, where I pursue my educational dream to become a software developer.</p>
+                <p>
+                  I've worked on various exciting projects this semester, including <a href="https://drive.google.com/file/d/1W4nesCynPS2ruhHWG01bKtR920VCRQfV/view?usp=sharing">Weather data analysis</a>, <a href="https://drive.google.com/file/d/1CMmc0hLY11uFrWlWz7uyocm9CajM5xiq/view?usp=sharing">Instacart Examination</a>, and <a href="https://drive.google.com/file/d/1a_FdKqGNgu8CgHMw0FxJ9A-YRMz4mzWu/view?usp=sharing">Max labs projects</a>.
+                </p>
+                <p style="text-align:center">
+                  <a href="mailto:seif1@my.yorku.ca">Email</a> &nbsp;/&nbsp;
+                  <a href="https://docs.google.com/document/d/16i3ToNzoE7uMPvgrqvy4Wvzhny-x4LUdvMtTqSLKoDE/edit?usp=sharing">Resume</a> &nbsp;/&nbsp;
+                  <a href="https://drive.google.com/file/d/1Ztg9SLXFUmwtUDp-36wzjo_Tsy765Npn/view?usp=sharing">Bio</a> &nbsp;/&nbsp;
+                  <a href="https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-homepage">Indeed Profile</a> &nbsp;/&nbsp;
+                  <a href="https://github.com/anklebully212">Github</a>
+                </p>
+              </td>
+              <td style="padding:2.5%;width:40%;max-width:40%">
+                <a href="https://drive.google.com/file/d/14Z9eAKNBdg9Mh22Dsvw8RmuiV-4r7AQn/view?usp=sharing"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="https://drive.google.com/file/d/1J0yN_h5zeGakcqKrRCKhyseFBZPTalW7/view?usp=sharing" class="hoverZoomLink"></a>
+              </td>
+            </tr>
+          </tbody></table>
+
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+              <td style="padding:20px;width:100%;vertical-align:middle">
+                <h2>Research</h2>
+                <p>
+                  I'm interested in fields such as AI, computer vision, software development, and generative models. My work primarily focuses on understanding how these technologies will influence industries and business strategies.
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr onmouseout="project1_stop()" onmouseover="project1_start()">
+              <td style="padding:20px;width:25%;vertical-align:middle">
+                <div class="one">
+                  <div class="two" id='project1_image'><video  width=100% muted autoplay loop>
+                  <source src="images/project1.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+                  </video></div>
+                  <img src='images/project1.jpg' width=100%>
+                </div>
+                <script type="text/javascript">
+                  function project1_start() {
+                    document.getElementById('project1_image').style.opacity = "1";
+                  }
+                  function project1_stop() {
+                    document.getElementById('project1_image').style.opacity = "0";
+                  }
+                  project1_stop()
+                </script>
+              </td>
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://yourprojectpage.com">
+                  <span class="papertitle">Project 1: Weather data analysis</span>
+                </a>
+                <br>
+                <strong>Seif-Allah Abdel-latef</strong>
+                <br>
+                <em>2025</em>
+                <br>
+                <a href="https://drive.google.com/file/d/1W4nesCynPS2ruhHWG01bKtR920VCRQfV/view?usp=sharing">project page</a>
+                <p></p>
+                <p>
+                The weather data analysis project was created to practice using excel sheets and python. In this assignment i was instructed to retrieve and organize weather data from two weeks prior. After that organization i was instructed to visually represent this data which was shown in the graph.
+                </p>
+              </td>
+            </tr>
+    <tr onmouseout="nuvo_stop()" onmouseover="nuvo_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+        <script type="text/javascript">
+          function nuvo_start() {
+            document.getElementById('nuvo_image').style.opacity = "1";
+          }
+
+          function nuvo_stop() {
+            document.getElementById('nuvo_image').style.opacity = "0";
+          }
+          nuvo_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://pratulsrinivasan.github.io/nuvo/">
+          <span class="papertitle">Instacart Examination</span>
+        </a>
+        <br>
+        <br>
+        <em>arXiv</em>, 2023
+        <br>
+        <a href="https://drive.google.com/file/d/1CMmc0hLY11uFrWlWz7uyocm9CajM5xiq/view?usp=sharing">project document</a>
+        <p>
+        Organize background information about the company then answer provided questions based on how information technology can affect businesses and how organizations can take advantage of information system strategies.
+        </p>
+      </td>
+    </tr>
+	
+	
+    <tr onmouseout="recon_stop()" onmouseover="recon_start()" bgcolor="#ffffd0">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='recon_image'><video  width=100% height=100% muted autoplay loop>
+          <img src='images/recon.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function recon_start() {
+            document.getElementById('recon_image').style.opacity = "1";
+          }
+
+          function recon_stop() {
+            document.getElementById('recon_image').style.opacity = "0";
+          }
+          recon_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://reconfusion.github.io/">
+			<span class="papertitle">Max labs projects</span>
+        </a>
+        <br>
+        <em>arXiv</em>, 2025
+        <br>
+        <a href="https://drive.google.com/file/d/1a_FdKqGNgu8CgHMw0FxJ9A-YRMz4mzWu/view?usp=sharing">project grade</a>
+        /
+        <a href="https://arxiv.org/abs/">arXiv</a>
+        <p></p>
+        <p>
+        The max labs projects taught me how to create an information system that can organize and retreive data inserted by a user. in this specific assignment the model is used to organize and relay user information on a start up company in which the user logs investments, investor comments, investor stakes etc. 
+        </p>
+      </td>
+    </tr>
